@@ -3,7 +3,9 @@
 # Quiz App
 
 A Quiz App built using React is a web application that enables users to create, play, and view their scores on quizzes. With this app, users can easily create quizzes on any topic and customize them to their liking. The app's user-friendly interface makes it easy to create, manage, and play quizzes. Users can play quizzes created by themselves or others and receive real-time feedback on their performance. Once the quiz is completed, the app calculates the user's score based on the number of correct answers given and displays it at the end of the quiz. This Quiz App is a fun and engaging way to learn new things and challenge oneself.
- [Visit Site](https://almabetter-capstoneprojectquizapp.netlify.app).
+
+[Watch the video](https://www.youtube.com/embed/NaXX-b2SCc4?rel=0)
+
 ## Table of Contents
 
 - [Quiz App](#quiz-app)
@@ -18,6 +20,7 @@ A Quiz App built using React is a web application that enables users to create, 
   - [Contributing](#contributing)
   - [Documentation](#documentation)
   - [Authors](#authors)
+  - [Demo](#demo)
   - [License](#license)
   - [Badges](#badges)
 ## Quiz Creation
@@ -123,11 +126,14 @@ To contribute to Quiz App, please follow these steps:
 - Murtuza Bharmal.
 - Praveenkumar Sajjan.
 - Sayan Sikder.
-- Nikhil Gautam.
+- Nikhil Gautam.3
+
+## Demo
+[Click here to Visit Site](https://almabetter-capstoneprojectquizapp.netlify.app/).
+
 ## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Badges
 
